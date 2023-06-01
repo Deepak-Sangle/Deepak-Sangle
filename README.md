@@ -13,7 +13,7 @@
 
 You have finally discovered my Github profile. <br>
 
-Hi, I am Deepak Sangle, a third year CSE undergraduate student at IIT Kanpur who is passionate about software developements. I am currently working on implementing a Java Compiler in C++. Checkout my repositories to get to know more about my projects.
+Hi, I am Deepak Sangle, a third year CSE undergraduate student at IIT Kanpur who is passionate about software developement. I am currently working on implementing a Java Compiler in C++. Checkout my repositories to get to know more about my projects.
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Please feel free to visit my <a href="https://home.iitk.ac.in/~sangleds20/">Portfolio page</a> to know more about me.
