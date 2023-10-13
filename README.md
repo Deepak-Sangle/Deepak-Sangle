@@ -32,7 +32,7 @@ Please feel free to visit my <a href="https://home.iitk.ac.in/~sangleds20/">Port
 <h4 align="center">Tools, technologies and languages I use</h4>
 <br./>
 <div align="center">
-<code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,mongodb,mysql,spring,c,cpp,cs,java,javascript,typescript,python,haskell,ruby,go,git,docker,postman,unity,blender&perline=8">
+<code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,nest,mongodb,mysql,spring,c,cpp,cs,java,javascript,typescript,python,haskell,ruby,git,postman&perline=7">
 </code>
 
 <br/>
