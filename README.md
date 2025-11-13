@@ -13,10 +13,10 @@
 
 You have finally discovered my Github profile. <br>
 
-Hi, I am Deepak Sangle, a third year CSE undergraduate student at IIT Kanpur who is passionate about software developement. I am currently working on implementing a Java Compiler in C++. Checkout my repositories to get to know more about my projects.
+Hi, I am Deepak Sangle, a masters student at the University of Manchester studying Advanced Computer Science. I have completed my undergrad degree from Indian Institute of Technology, Kanpur in Computer Science and Engineering. I have worked for Fiber AI (YC S23) for almost 2 years building the company from 0 to 1. I am currently building in stealth, dm me for collaboration or just chatting up!
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Please feel free to visit my <a href="https://home.iitk.ac.in/~sangleds20/">Portfolio page</a> to know more about me.
+Please feel free to visit my <a href="https://deepaksangle.com/">Portfolio page</a> to know more about me.
 
 <i>Happy Coding!</i> 😊
 
@@ -32,7 +32,7 @@ Please feel free to visit my <a href="https://home.iitk.ac.in/~sangleds20/">Port
 <h4 align="center">Tools, technologies and languages I use</h4>
 <br./>
 <div align="center">
-<code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,nest,mongodb,mysql,spring,c,cpp,cs,java,javascript,typescript,python,haskell,ruby,git,postman&perline=7">
+<code><img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,mongodb,spring,c,cpp,java,rust,javascript,typescript,python,haskell,elasticsearch,postgresql,git,docker,postman,nextjs,aws,kubernetes,&perline=8">
 </code>
 
 <br/>
