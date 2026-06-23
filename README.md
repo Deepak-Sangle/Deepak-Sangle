@@ -13,7 +13,9 @@
 
 You have finally discovered my Github profile. <br>
 
-Hi, I am Deepak Sangle, a masters student at the University of Manchester studying Advanced Computer Science. I have completed my undergrad degree from Indian Institute of Technology, Kanpur in Computer Science and Engineering. I have worked for Fiber AI (YC S23) for almost 2 years building the company from 0 to 1. I am currently building in stealth, dm me for collaboration or just chatting up!
+Hi, I am Deepak Sangle, a masters student at the University of Manchester studying Advanced Computer Science. I have completed my undergrad degree from Indian Institute of Technology, Kanpur in Computer Science and Engineering. I have worked for Fiber AI (YC S23) for almost 2 years building the company from 0 to 1.
+
+I am currently building [SIA](https://www.withsia.com), an AI CMO for your startup, which drives organic traffic to your website on autopilot.
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Please feel free to visit my <a href="https://deepaksangle.com/">Portfolio page</a> to know more about me.
