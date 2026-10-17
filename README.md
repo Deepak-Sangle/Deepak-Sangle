@@ -13,9 +13,9 @@
 
 You have finally discovered my Github profile. <br>
 
-Hi, I am Deepak Sangle, a masters student at the University of Manchester studying Advanced Computer Science. I have completed my undergrad degree from Indian Institute of Technology, Kanpur in Computer Science and Engineering. I have worked for Fiber AI (YC S23) for almost 2 years building the company from 0 to 1.
+Hey, I am Deepak. I like coding, playing games and travelling. My current area of interests are web scraping, reverse engineering internals, and decompiling native apps. I am currently playing Souls-like games, especially loving Sekiro and Elden Ring. I am currently travelling in Europe, and wish to spend more time here than ever.
 
-I am currently building [SIA](https://www.withsia.com), an AI CMO for your startup, which drives organic traffic to your website on autopilot.
+I am building [Bridgly](https://www.bridgly.app), social data APIs for your software across every social media platform, so you don't need to worry about scraping ever. 
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Please feel free to visit my <a href="https://deepaksangle.com/">Portfolio page</a> to know more about me.
